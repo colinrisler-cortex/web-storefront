@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "web-storefront"
+  x-cortex-tag: "web-storefront"
+  x-cortex-description: "Customer-facing web shopping experience"
+  x-cortex-owners:
+    - type: group
+      name: "eCommerce Platform Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001201"
+    apm_name: "Digital Storefront Platform"
+    cost_center: "CC-4210"
